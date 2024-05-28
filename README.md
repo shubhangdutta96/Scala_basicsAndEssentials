@@ -11,7 +11,8 @@ Getting Started
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/learning-scala.git
+git clone https://github.com/shubhangdutta96/Scala_basicsAndEssentials
+.git
 cd learning-scala
 Set up your Scala environment:
 
